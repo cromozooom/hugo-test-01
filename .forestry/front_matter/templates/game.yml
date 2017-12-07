@@ -21,3 +21,7 @@ fields:
   type: boolean
   hidden: false
   default: true
+- type: boolean
+  name: is_new_game
+  label: New game?
+  description: is this game new, or is a classic?
