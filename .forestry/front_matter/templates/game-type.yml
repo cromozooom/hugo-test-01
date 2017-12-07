@@ -1,3 +1,10 @@
 ---
 hide_body: false
-fields: []
+fields:
+- type: list
+  default:
+  - jackpots
+  - live
+  label: type of the game
+  name: type_of_the_game
+  description: lista of types
