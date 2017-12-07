@@ -1,7 +1,6 @@
 +++
 date = "2017-12-07T10:33:10+00:00"
 description = "Lorem ipsum about this fucking games :)"
-draft = true
 is_new_game = false
 title = "Ted"
 type = ""
