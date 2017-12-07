@@ -46,3 +46,7 @@ fields:
     name: icon
     label: icon
     description: icn for the game
+  - type: file
+    label: Hero
+    name: hero
+    description: this is the hero image
