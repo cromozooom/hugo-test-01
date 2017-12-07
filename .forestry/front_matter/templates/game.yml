@@ -46,3 +46,5 @@ fields:
     name: description
     label: description
     description: here is the all what you know about this game
+    config:
+      wysiwyg: true
