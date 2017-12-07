@@ -11,11 +11,6 @@ fields:
   type: text
   hidden: false
   default: 
-- name: type
-  label: Type
-  type: text
-  hidden: false
-  default: 
 - name: draft
   label: Draft
   type: boolean
@@ -34,3 +29,11 @@ fields:
       path: gameType
   label: type of the game
   description: what tye of game is it?
+- type: file
+  name: game_small_cover
+  label: Image Small
+  description: this is the cover image game
+- type: file
+  name: image_hero
+  label: Image Hero
+  description: this is the image used for the Hero area
