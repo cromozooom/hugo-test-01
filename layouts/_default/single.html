@@ -1,0 +1,8 @@
+{{ template "partials/header.html" . }}
+<p>single page</p>
+{{ .Content}}
+<ul>
+	{{ range .Pages}}
+		<li>{{.Title}}</li>
+	{{ end }}
+</ul>

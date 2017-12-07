@@ -1,0 +1,15 @@
+<!doctype html>
+<html lang="en">
+	{{ template "partials/header.html" . }}
+	<body>
+		{{ template "partials/dev.html" . }}
+		{{ template "partials/menu.html" . }}
+		
+		{{ .Content}}
+		<ul>
+			{{ range .Pages}}
+				<li>{{.Title}} -- {{ .URL }}</li>
+			{{ end }}
+		</ul>
+	</body>
+</html>

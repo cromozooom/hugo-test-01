@@ -1,0 +1,15 @@
+{{ template "partials/header.html" . }}
+
+{{ template "partials/dev.html" . }}
+{{ template "partials/menu.html" . }}
+
+<p>list page</p>
+{{ .Content}}
+<ul>
+	{{ range .Pages}}
+		<li>
+			{{.Title}}  - 
+			{{.URL}}
+		</li>
+	{{ end }}
+</ul>

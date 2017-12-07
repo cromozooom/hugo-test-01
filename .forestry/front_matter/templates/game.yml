@@ -21,13 +21,13 @@ fields:
   label: New game?
   description: is this game new, or is a classic?
 - type: select
-  name: type_of_the_game
+  name: category
   config:
     source:
       type: datafiles
       file: gametype-toml
       path: gameType
-  label: type of the game
+  label: game category
   description: what tye of game is it?
 - type: field_group
   label: Assets
