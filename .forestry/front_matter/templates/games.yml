@@ -6,3 +6,7 @@ fields:
   label: title of the game
   name: title_of_the_game
   description: specifi the title of the bame
+- type: boolean
+  name: is_new
+  label: new?
+  description: is this New game or is a classic?
