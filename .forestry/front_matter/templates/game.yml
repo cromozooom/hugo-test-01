@@ -25,3 +25,10 @@ fields:
   name: is_new_game
   label: New game?
   description: is this game new, or is a classic?
+- type: select
+  name: type_of_the_game
+  config:
+    source:
+      type: datafiles
+  label: type of the game
+  description: what tye of game is it?
