@@ -37,3 +37,12 @@ fields:
   name: image_hero
   label: Image Hero
   description: this is the image used for the Hero area
+- type: field_group
+  label: Assets
+  name: images
+  description: here are the images for the game
+  fields:
+  - type: file
+    name: icon
+    label: icon
+    description: icn for the game
