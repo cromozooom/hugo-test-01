@@ -3,8 +3,40 @@ builddrafts = false
 canonifyurls = true
 enforce_ssl = false
 languageCode = "en-us"
-theme = "blank"
+theme = "spx-theme"
 title = "My New Hugo Site"
+
+[menu]
+	[[menu.main]]
+		identifier		= "games"
+		name			= "games"
+		url				= "/games/"
+		weight			= 1
+
+	[[menu.main]]
+		identifier		= "slots"
+		name			= "slots"
+		url				= "/games/slots/"
+		weight			= 1
+
+	[[menu.main]]
+		identifier		= "live"
+		name			= "live"
+		url				= "/games/live/"
+		weight			= 2
+	
+	[[menu.main]]
+		identifier		= "jackpots"
+		name			= "jackpots"
+		url				= "/games/jackpots/"
+		weight			= 3
+	
+	[[menu.main]]
+		identifier		= "news"
+		name			= "News"
+		url				= "/"
+		weight			= 4
+	
 
 [params]
 	avatar = "img/profile.jpg"
