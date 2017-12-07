@@ -1,4 +1,4 @@
-live			= true
-jackpots		= true
-slots			= true
-others			= true
++++
+gameType = ["live", "jackpots", "slots", "others"]
++++
+
