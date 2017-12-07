@@ -1,8 +1,9 @@
 ---
-title: "About"
-date: 2017-03-09T13:19:25+08:00
----
+title: About
+date: 2017-03-09 13:19:25 +0800
+type: page
 
+---
 This is **Introduction,** a minimal scrolling website theme made for [Hugo](https://gohugo.io).
 
 ### Features

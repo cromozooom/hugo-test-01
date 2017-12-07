@@ -1,9 +1,9 @@
 ---
-title: "Hipster Ipsum"
-date: 2017-11-13T11:58:39-05:00
+title: Hipster Ipsum
+date: 2017-11-13 11:58:39 -0500
 draft: true
----
 
+---
 Occupy mlkshk kale chips woke, listicle locavore next level fingerstache glossier aesthetic man braid before they sold out kitsch prism. Cred copper mug freegan, flannel YOLO single-origin coffee skateboard artisan four loko church-key man bun. Synth literally gastropub, kombucha chillwave helvetica offal truffaut church-key freegan pop-up gentrify narwhal. Kombucha viral vexillologist green juice. Slow-carb hoodie mumblecore tumeric tattooed meditation, lo-fi fap cred affogato forage whatever austin. Shabby chic direct trade migas, brunch gochujang sriracha chambray fanny pack 8-bit mustache letterpress. Street art umami tattooed, glossier selfies 90's kale chips cred cardigan taxidermy seitan distillery migas.
 
 Chicharrones ethical activated charcoal cardigan vegan copper mug. Ennui messenger bag 90's street art art party etsy. Four loko freegan flannel flexitarian, slow-carb hot chicken vexillologist tote bag church-key tilde pinterest. Ethical hell of retro, mlkshk twee yr selfies asymmetrical venmo. Photo booth mixtape tattooed pop-up, synth flexitarian paleo. DIY cornhole sustainable, gochujang whatever slow-carb hexagon tilde. Bitters XOXO kombucha af.
