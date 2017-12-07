@@ -1,3 +1,8 @@
 ---
 hide_body: false
-fields: []
+fields:
+- type: text
+  default: Ttile
+  label: title of the game
+  name: title_of_the_game
+  description: specifi the title of the bame
