@@ -30,5 +30,7 @@ fields:
   config:
     source:
       type: datafiles
+      file: gametype-toml
+      path: gameType
   label: type of the game
   description: what tye of game is it?
