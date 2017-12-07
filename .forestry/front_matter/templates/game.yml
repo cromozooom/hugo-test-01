@@ -42,3 +42,7 @@ fields:
     label: Hero
     name: hero
     description: this is the hero image
+  - type: textarea
+    name: description
+    label: description
+    description: here is the all what you know about this game
